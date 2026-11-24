@@ -27,6 +27,9 @@ stores and every figure are invented for the training. Use it freely.
 4. Check that you see `src/app.py` and `data/` in the project.
 5. Settings: **Planning mode**, plan review on **Request review**, terminal commands on ask-first.
 6. Start a **new conversation** (Local mode).
+7. First prompt, to check the agent reads the project:
+
+> What does this project do, and what is missing?
 
 ### Python (so you can run the check yourself)
 
