@@ -11,6 +11,7 @@ stores and every figure are invented for the training. Use it freely.
 | `kit/AGENTS.md`, `kit/tests/test_data_contract.py` | The two files of the fix: the rules and the check | Your turn |
 | `kit/extras/.agents/` | A skill and a hook | Path 1 |
 | `path2-starter/` | A starter `AGENTS.md` and a skeleton check | Path 2 |
+| `stock-alerts-lite/`, `kit/lite/` | The same case with nothing to install: Python 3 only | Your turn, if you cannot install packages |
 | `PROMPTS.md` | This file | All session |
 
 ## Set up
@@ -42,6 +43,9 @@ pytest -q
 
 Without Python you can still follow: review the plan and the diff instead of running the service.
 
+**Cannot install packages at all?** Use the no-install version: see "Your turn, with nothing to
+install" below. It needs Python 3 and nothing else.
+
 **No network in the sandbox:** if the agent wants to `pip install`, it will ask. Install the
 dependencies yourself first.
 
@@ -70,6 +74,28 @@ Use the same words every time.
 
 The answer is now one you can check: the rules say what the data means and what the team
 decided (what is urgent, how to report); the test proves the result.
+
+### Your turn, with nothing to install
+
+For a laptop where `pip install` is not possible. Same case, same figures, Python 3 only.
+
+1. In the App: **New Project**, **Add Folder**, choose `stock-alerts-lite` (not the pack's root
+   folder), **Create**.
+2. From `kit/lite/`: copy `AGENTS.md` and `check.py` into `stock-alerts-lite/`.
+3. Run `python3 check.py` (Windows: `python check.py` or `py check.py`): `4 failed`. That is
+   expected: nothing is built yet.
+4. Start a **new conversation** and paste the prompt below.
+5. Check: `python3 check.py` ends with `4 passed`. Totals: **14,267 units**, **€96,542.73**.
+   Alerts: **6 urgent**, **5 below minimum**, **1 count missing**.
+
+> Hugo, the IT Product Owner, has a change request for the stock-alerts service. In
+> `stock_alerts.py` the functions `alerts()` and `totals()` are still not implemented. Using the
+> two files in `data/`, implement `alerts()` (every store and product below its minimum stock) and
+> `totals()` (total units and sales in EUR in the export). Use only the Python standard library.
+> Run it and show me the result.
+
+Part 2 from here: Path 2 needs nothing installed. Path 1 (1a to 1e) is written for the full
+`stock-alerts/` service.
 
 ## Part 2 · 30 min · pick your path
 
@@ -101,6 +127,9 @@ Start from a green `stock-alerts/` (after Your turn). The contract test stays gr
 
 > Explain what each hook in `.agents/hooks.json` does and when it runs. Then make a small change
 > to `src/app.py` and show me `.agents/last-test-run.txt` after the edit.
+
+The hook runs the tests with the project's `.venv` when there is one. Without pytest it holds
+nothing back: it writes the reason to `.agents/last-test-run.txt` and lets the agent finish.
 
 The hook calls `python3`. If only `python` or `py` is on your path (common on Windows), change
 `python3` in the two `command` lines of `.agents/hooks.json`. The hook is not tested on Windows:

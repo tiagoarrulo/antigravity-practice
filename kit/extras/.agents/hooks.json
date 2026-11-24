@@ -2,11 +2,11 @@
   "tests-after-edit": {
     "PostToolUse": [
       {
-        "matcher": "write_to_file|replace_file_content|multi_replace_file_content",
+        "matcher": "edit_file|write_file|write_to_file|replace_file_content|multi_replace_file_content",
         "hooks": [
           {
             "type": "command",
-            "command": "python3 .agents/hooks/run_tests.py post-edit",
+            "command": "python3 hooks/run_tests.py post-edit",
             "timeout": 60
           }
         ]
@@ -17,7 +17,7 @@
     "Stop": [
       {
         "type": "command",
-        "command": "python3 .agents/hooks/run_tests.py stop",
+        "command": "python3 hooks/run_tests.py stop",
         "timeout": 60
       }
     ]

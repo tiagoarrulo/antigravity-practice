@@ -1,0 +1,127 @@
+﻿Mercado Atlântico · Store Operations · Olive oil stock by store
+"Stock on hand at 07:00 on Monday 04 January 2027, from the store stock system. Extract of 24 stores (the weekly report has all 410); extra virgin olive oil, 750 ml."
+
+Store code;Store;Region;Item;Product;Shelf price EUR;Stock on hand (bottles);Minimum stock (bottles);Last delivery
+MA-0001;Porto;North;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;41;24;28/12/2026
+MA-0001;Porto;North;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;31;24;30/12/2026
+MA-0001;Porto;North;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;8;6;01/01/2027
+MA-0001;Porto;North;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;35;18;25/12/2026
+MA-0001;Porto;North;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;25;12;30/12/2026
+MA-0002;Braga;North;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;38;18;28/12/2026
+MA-0002;Braga;North;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;25;12;28/12/2026
+MA-0002;Braga;North;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;14;6;30/12/2026
+MA-0002;Braga;North;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;11;12;30/12/2026
+MA-0002;Braga;North;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;8;6;31/12/2026
+MA-0003;Guimarães;North;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;99;42;28/12/2026
+MA-0003;Guimarães;North;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;30;30;28/12/2026
+MA-0003;Guimarães;North;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;18;12;01/01/2027
+MA-0003;Guimarães;North;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;63;30;01/01/2027
+MA-0003;Guimarães;North;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;24;18;30/12/2026
+MA-0004;Matosinhos;North;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;57;30;25/12/2026
+MA-0004;Matosinhos;North;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;64;24;30/12/2026
+MA-0004;Matosinhos;North;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;19;12;01/01/2027
+MA-0004;Matosinhos;North;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;34;18;01/01/2027
+MA-0004;Matosinhos;North;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;33;12;25/12/2026
+MA-0005;Maia;North;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;132;48;25/12/2026
+MA-0005;Maia;North;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;48;42;01/01/2027
+MA-0005;Maia;North;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;47;18;31/12/2026
+MA-0005;Maia;North;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;54;36;01/01/2027
+MA-0005;Maia;North;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;55;24;28/12/2026
+MA-0006;Vila Nova de Gaia;North;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;50;18;31/12/2026
+MA-0006;Vila Nova de Gaia;North;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;31;12;31/12/2026
+MA-0006;Vila Nova de Gaia;North;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;9;6;25/12/2026
+MA-0006;Vila Nova de Gaia;North;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;22;12;30/12/2026
+MA-0006;Vila Nova de Gaia;North;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;16;6;31/12/2026
+MA-0119;Coimbra;Centre;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;18;24;01/01/2027
+MA-0119;Coimbra;Centre;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;60;24;25/12/2026
+MA-0119;Coimbra;Centre;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;15;6;25/12/2026
+MA-0119;Coimbra;Centre;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;20;18;28/12/2026
+MA-0119;Coimbra;Centre;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;21;12;28/12/2026
+MA-0120;Aveiro;Centre;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;82;30;31/12/2026
+MA-0120;Aveiro;Centre;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;29;24;28/12/2026
+MA-0120;Aveiro;Centre;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;15;12;28/12/2026
+MA-0120;Aveiro;Centre;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;21;18;30/12/2026
+MA-0120;Aveiro;Centre;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;32;12;25/12/2026
+MA-0121;Leiria;Centre;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;26;24;31/12/2026
+MA-0121;Leiria;Centre;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;47;18;01/01/2027
+MA-0121;Leiria;Centre;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;8;6;31/12/2026
+MA-0121;Leiria;Centre;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;20;18;31/12/2026
+MA-0121;Leiria;Centre;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;16;12;31/12/2026
+MA-0122;Viseu;Centre;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;39;24;30/12/2026
+MA-0122;Viseu;Centre;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;39;18;31/12/2026
+MA-0122;Viseu;Centre;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;15;6;01/01/2027
+MA-0122;Viseu;Centre;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;45;18;30/12/2026
+MA-0122;Viseu;Centre;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;25;12;01/01/2027
+MA-0123;Guarda;Centre;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;9;18;28/12/2026
+MA-0123;Guarda;Centre;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;30;12;30/12/2026
+MA-0123;Guarda;Centre;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;15;6;30/12/2026
+MA-0123;Guarda;Centre;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;14;12;31/12/2026
+MA-0123;Guarda;Centre;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;6;6;30/12/2026
+MA-0211;Lisboa;Lisbon;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;52;24;25/12/2026
+MA-0211;Lisboa;Lisbon;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;27;18;31/12/2026
+MA-0211;Lisboa;Lisbon;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;12;6;28/12/2026
+MA-0211;Lisboa;Lisbon;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;7;18;25/12/2026
+MA-0211;Lisboa;Lisbon;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;21;12;28/12/2026
+MA-0212;Amadora;Lisbon;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;11;18;28/12/2026
+MA-0212;Amadora;Lisbon;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;11;12;31/12/2026
+MA-0212;Amadora;Lisbon;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;7;6;30/12/2026
+MA-0212;Amadora;Lisbon;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;19;12;28/12/2026
+MA-0212;Amadora;Lisbon;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;6;6;31/12/2026
+MA-0213;Odivelas;Lisbon;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;30;12;01/01/2027
+MA-0213;Odivelas;Lisbon;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;25;12;31/12/2026
+MA-0213;Odivelas;Lisbon;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;16;6;28/12/2026
+MA-0213;Odivelas;Lisbon;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;17;12;25/12/2026
+MA-0213;Odivelas;Lisbon;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;11;6;28/12/2026
+MA-0214;Loures;Lisbon;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;57;42;01/01/2027
+MA-0214;Loures;Lisbon;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;52;36;25/12/2026
+MA-0214;Loures;Lisbon;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;23;12;30/12/2026
+MA-0214;Loures;Lisbon;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;71;30;30/12/2026
+MA-0214;Loures;Lisbon;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;55;24;30/12/2026
+MA-0215;Sintra;Lisbon;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;33;18;28/12/2026
+MA-0215;Sintra;Lisbon;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;13;12;01/01/2027
+MA-0215;Sintra;Lisbon;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;;6;25/12/2026
+MA-0215;Sintra;Lisbon;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;15;12;31/12/2026
+MA-0215;Sintra;Lisbon;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;7;6;25/12/2026
+MA-0216;Cascais;Lisbon;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;29;12;28/12/2026
+MA-0216;Cascais;Lisbon;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;13;12;01/01/2027
+MA-0216;Cascais;Lisbon;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;3;6;31/12/2026
+MA-0216;Cascais;Lisbon;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;29;12;28/12/2026
+MA-0216;Cascais;Lisbon;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;11;6;01/01/2027
+MA-0217;Oeiras;Lisbon;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;50;24;30/12/2026
+MA-0217;Oeiras;Lisbon;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;38;18;25/12/2026
+MA-0217;Oeiras;Lisbon;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;12;6;01/01/2027
+MA-0217;Oeiras;Lisbon;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;49;18;01/01/2027
+MA-0217;Oeiras;Lisbon;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;20;12;30/12/2026
+MA-0335;Évora;Alentejo;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;59;48;30/12/2026
+MA-0335;Évora;Alentejo;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;90;42;25/12/2026
+MA-0335;Évora;Alentejo;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;24;18;30/12/2026
+MA-0335;Évora;Alentejo;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;77;36;28/12/2026
+MA-0335;Évora;Alentejo;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;51;24;28/12/2026
+MA-0336;Beja;Alentejo;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;9;24;31/12/2026
+MA-0336;Beja;Alentejo;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;47;18;31/12/2026
+MA-0336;Beja;Alentejo;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;8;6;25/12/2026
+MA-0336;Beja;Alentejo;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;29;18;28/12/2026
+MA-0336;Beja;Alentejo;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;6;12;01/01/2027
+MA-0337;Portalegre;Alentejo;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;15;12;30/12/2026
+MA-0337;Portalegre;Alentejo;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;15;12;28/12/2026
+MA-0337;Portalegre;Alentejo;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;4;6;28/12/2026
+MA-0337;Portalegre;Alentejo;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;21;12;28/12/2026
+MA-0337;Portalegre;Alentejo;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;11;6;30/12/2026
+MA-0369;Faro;Algarve;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;25;24;01/01/2027
+MA-0369;Faro;Algarve;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;42;18;25/12/2026
+MA-0369;Faro;Algarve;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;15;6;01/01/2027
+MA-0369;Faro;Algarve;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;43;18;25/12/2026
+MA-0369;Faro;Algarve;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;6;12;01/01/2027
+MA-0370;Portimão;Algarve;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;30;18;01/01/2027
+MA-0370;Portimão;Algarve;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;32;12;28/12/2026
+MA-0370;Portimão;Algarve;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;7;6;25/12/2026
+MA-0370;Portimão;Algarve;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;23;12;28/12/2026
+MA-0370;Portimão;Algarve;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;13;6;25/12/2026
+MA-0371;Albufeira;Algarve;560101;Mercado Atlântico Extra virgin olive oil 750 ml;5,99;47;18;25/12/2026
+MA-0371;Albufeira;Algarve;560102;Vale do Lírio Extra virgin olive oil 750 ml;6,99;31;12;28/12/2026
+MA-0371;Albufeira;Algarve;560103;Herdade Alvar Extra virgin olive oil 750 ml;9,49;10;6;01/01/2027
+MA-0371;Albufeira;Algarve;560104;Campo Liso Extra virgin olive oil 750 ml;5,49;13;12;30/12/2026
+MA-0371;Albufeira;Algarve;560105;Torre Antiga Extra virgin olive oil 750 ml;7,79;11;6;01/01/2027
+
+Minimum stock is set by Store Operations in whole cases of 6 bottles.
+Fictitious document created for training. All companies, names and figures are invented.
