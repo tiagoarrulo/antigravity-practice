@@ -60,7 +60,10 @@ Use the same words every time.
 > implement `GET /alerts` (every store and product below its minimum stock) and `GET /totals`
 > (total units and sales in EUR in the export). Run it and show me the result.
 
-## Your turn · 15 min
+## Your turn · 30 min
+
+After the break. Path 1 starts with the two files below, then adds one thing Hugo would ask
+next. Path 2, a case of your own, is further down.
 
 ### Add two files. Same prompt.
 
@@ -94,17 +97,17 @@ For a laptop where `pip install` is not possible. Same case, same figures, Pytho
 > `totals()` (total units and sales in EUR in the export). Use only the Python standard library.
 > Run it and show me the result.
 
-Part 2 from here: Path 2 needs nothing installed. Path 1 (1a to 1e) is written for the full
+From here: Path 2 needs nothing installed. Path 1 (1a to 1e) is written for the full
 `stock-alerts/` service.
 
-## Part 2 · 30 min · pick your path
+## Then · pick your path
 
 Plan first (Planning mode, Request review) and give the agent one check it can run.
-Note one thing you had to correct: three of you will show what you made.
+Note one thing you had to correct: three or four of you will show what you made.
 
 ### Path 1 · Build on Hugo's service
 
-Start from a green `stock-alerts/` (after Your turn). The contract test stays green.
+Start from a green `stock-alerts/` (after the two files above). The contract test stays green.
 
 > **1a. Alerts for one store.** Add a `store` filter to `GET /alerts` (for example
 > `/alerts?store=MA-0215`) that returns only that store's alerts. Add a test for it. Keep every
