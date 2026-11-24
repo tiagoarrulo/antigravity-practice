@@ -15,9 +15,11 @@ Hugo Leal, the stores and every figure are invented for the training. Use it fre
 4. Start a new conversation.
 5. Follow [PROMPTS.md](PROMPTS.md): every step and every prompt is there to copy.
 
-**Cannot install Python packages?** In step 3 choose the `stock-alerts-lite` folder instead, and
-follow ["Your turn, with nothing to install"](PROMPTS.md#your-turn-with-nothing-to-install).
-It is the same exercise and needs nothing installed.
+**Cannot install Python packages?** The `stock-alerts` project needs three of them (Flask,
+openpyxl and pytest). If your laptop has Python 3 but does not let you install packages, choose
+the `stock-alerts-lite` folder in step 3 instead, and follow
+["Your turn, with nothing to install"](PROMPTS.md#your-turn-with-nothing-to-install).
+It is the same exercise with the same figures, and it runs with Python 3 alone.
 
 ## The case
 
@@ -35,7 +37,7 @@ same words, after adding two small files: the team's rules and a check the agent
 | `PROMPTS.md` | The session, step by step, with every prompt |
 | `stock-alerts/` | The project you open: a small service with two things still to build |
 | `kit/` | The two files you copy into the project: the team's rules (`AGENTS.md`) and a check |
-| `stock-alerts-lite/` and `kit/lite/` | The same exercise with nothing to install |
+| `stock-alerts-lite/` and `kit/lite/` | The same exercise with no packages to install: Python 3 is enough |
 | `kit/extras/` | For after the break: a skill and a hook |
 | `path2-starter/` | For after the break: a starter for a case of your own |
 
@@ -57,7 +59,7 @@ The wording of the agent's answer will differ from your neighbour's. The figures
 | What you see | What to do |
 |---|---|
 | The agent cannot find `src/app.py` or `data/` | You added the pack's root folder. Remove the project and add the `stock-alerts` folder |
-| `pip install` is blocked or fails | Use `stock-alerts-lite`: see "Cannot install Python packages?" above |
+| `pip install` is blocked or fails | Use `stock-alerts-lite`: see "Cannot install Python packages?" above. It needs Python 3 only |
 | `kit/extras/` looks empty | It holds a hidden folder, `.agents`. Cmd+Shift+. shows it in macOS Finder; View → Show → Hidden items in Windows Explorer |
 | `python3` is not found (common on Windows) | Use `python` or `py` instead |
 | Still `4 failed` after the build | Ask the agent to read the failure, fix the cause and run the check again, without changing the check |
